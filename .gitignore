@@ -1,0 +1,3 @@
+*.DS_Store
+*.pyc
+ideal_spec/sim_data/*.fits
